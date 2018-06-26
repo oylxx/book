@@ -1,0 +1,35 @@
+*{
+    background:  #68cdd5;
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    padding: 1em;
+}
+.content{
+    text-align:center;
+    margin-top:5%;}
+.word{
+    text-align:center;
+    color:white;
+    margin-top:10%;
+    margin-bottom:10%;
+    margin-left:12%;
+    margin-right:12%;
+}
+.left{
+    margin-left: 12%;
+    float:left;
+}
+.right{
+    margin-right: 12%;
+    float:right;
+}
+img {
+    max-width:100%;
+}
+span {
+    display:block;
+}
+
